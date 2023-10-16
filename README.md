@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
@@ -71,3 +72,12 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](LICENSE).
+=======
+# thread-clone
+Fitur-fitur yang saya buat hampir sama dengan yang asli: 
+1.Pencarian user 
+2.Postingan berbentuk gambar/teks 
+3.Memberikan komentar
+4.Memberikan Likes di setiap postingan
+5.Fitur Follow dan Unfollow
+>>>>>>> 8975cc42d5de5adbf143a15491fcc90a083614de
